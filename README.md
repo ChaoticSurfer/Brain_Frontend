@@ -1,2 +1,2 @@
-Online Learning Platform Front-end. 
+Online Learning Platform Front end. 
 not perfect.
